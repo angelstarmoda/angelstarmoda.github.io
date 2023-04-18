@@ -3,8 +3,30 @@
     flex-flow: row wrap;
 }
 
-.coluna-50 {
+.linha-10 {
+    margin: 10px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.coluna {
     width: 100% auto;
+}
+
+.coluna-20 {
+    width: 20%;
+}
+
+.coluna-30 {
+    width: 30%;
+}
+
+.coluna-40 {
+    width: 40%;
+}
+
+.coluna-50 {
+    width: 50%;
 }
 
 .img {
