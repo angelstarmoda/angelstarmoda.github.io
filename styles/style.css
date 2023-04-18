@@ -13,11 +13,6 @@
     margin-right: auto;
 }
 
-.a {
-    display: flex;
-    flex-flow: row wrap;
-}
-
 .img {
     width: 100%;
     height: 300px;
